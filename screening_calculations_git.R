@@ -72,7 +72,6 @@ EAntDetectionsPool32(1000,0.005)
 
 
 
-
 ## Plots for the case with a test budget of 1000
 Npcr <- 1000  #  Test budget
 pvec <- seq(0,0.02,by=0.0001) # Considered range of prevalences
